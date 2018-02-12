@@ -1,0 +1,35 @@
+extends ../layout
+block content
+  p
+  h3.text-center List
+  p
+  .container
+    .row
+      table.table.table-hover.table-bordered
+        thead
+          tr
+            th Poster
+            th Bage Number
+            th First Name
+            th Last Name
+            th Insert Date
+            th Lookup
+            th Update
+            th Delete
+        tbody
+          each item in bpmaintmtgs
+            tr(class="item-id-#{item._id}")
+              td #{item.poster}
+              td #{item.bage_number}
+              td #{item.first_name}
+              td #{item.last_name}
+              td #{moment(item.meta.updateAt).format('MM/DD/YYYY')}
+              td
+                a(target='_blank', href='../bpmaintmtg/#{item._id}')
+                  button.btn.btn-success(type='button') Lookup
+              td
+                a(target="_blank", href="../admin/update/#{item._id}") 
+                  button.btn.btn-warning(type='button') Modify
+              td
+                button.btn.btn-danger.del(type="button", data-id="#{item._id}") Delete
+  script(src="/js/admin.js")

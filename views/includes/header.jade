@@ -1,0 +1,21 @@
+
+nav.navbar.navbar-toggleable-md.navbar-light.bg-faded
+  button.navbar-toggler.navbar-toggler-right(type='button', data-toggle='collapse', data-target='#navbarNavDropdown', aria-controls='navbarNavDropdown', aria-expanded='false', aria-label='Toggle navigation')
+    span.navbar-toggler-icon
+  a.navbar-brand(href='/')
+    img.d-inline-block.align-top(src='/img/inteplast.png', width='200', height='50', alt='')
+    |     
+  #navbarNavDropdown.collapse.navbar-collapse
+    ul.navbar-nav
+      li.nav-item.active
+      li.nav-item
+        a.nav-link(href='/admin/bpmaintmtg') Add
+      li.nav-item
+        a.nav-link(href='/admin/list') Modify
+      li.nav-item.dropdown
+        a#navbarDropdownMenuLink.nav-link.dropdown-toggle(href='http://example.com', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')
+          | Dropdown link
+        .dropdown-menu(aria-labelledby='navbarDropdownMenuLink')
+          a.dropdown-item(href='#') Action
+          a.dropdown-item(href='#') Another action
+          a.dropdown-item(href='#') Something else here
