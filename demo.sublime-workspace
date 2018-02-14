@@ -1,0 +1,513 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"control",
+				"carousel-control \tBootstrap 3 Class"
+			],
+			[
+				"le",
+				"left \tBootstrap 3 Class"
+			],
+			[
+				"center",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"Lis",
+				"ListObj"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"list",
+				"listObj"
+			],
+			[
+				"req",
+				"require"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php \n\tclass textModel(\n\t\tfunction get(){\n\t\t\treturn \"hello world\";\n\t\t}\n\t)\n ?> ",
+			"file": "textModel.class.php",
+			"file_size": 79,
+			"file_write_time": 131629390220000000,
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 216.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"wordwarp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			]
+		],
+		"width": 442.0
+	},
+	"console":
+	{
+		"height": 128.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/demo.sublime-project",
+		"/Applications/MAMP/htdocs/testController.class.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Users/huangshijun/Documents/GitHub/stock-project-web/function.php",
+		"/Users/huangshijun/Documents/GitHub/stock-project-web/index.php",
+		"/Users/huangshijun/Documents/GitHub/stock-project-web/config.php",
+		"/Users/huangshijun/web-project/public/index.php",
+		"/Users/huangshijun/Documents/GitHub/stock-project-web/textModel.class.php",
+		"/Users/huangshijun/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/huangshijun/Documents/GitHub/stock-project-web/textController.class.php",
+		"/Users/huangshijun/Documents/GitHub/stock-project-web/textView.class.php",
+		"/Library/LaunchDaemons/com.oracle.oss.mysql.mysqld.plist",
+		"/Users/huangshijun/Documents/GitHub/stock-project-web/test.php",
+		"/Users/huangshijun/Documents/GitHub/stock-project-web/testController.class.php",
+		"/Users/huangshijun/web-project/routes/web.php",
+		"/Users/huangshijun/web-project/resources/views/auth/login.blade.php",
+		"/Users/huangshijun/web-project/resources/views/welcome.blade.php",
+		"/Users/huangshijun/web-project/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/huangshijun/cram-demo/bootstrap/autoload.php",
+		"/Users/huangshijun/web-project/routes/console.php",
+		"/Users/huangshijun/web-project/.env",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/admin.jade",
+		"/Users/huangshijun/project/resources/views/home.blade.php",
+		"/Users/huangshijun/project/.env",
+		"/Users/huangshijun/project/resources/views/auth/login.blade.php",
+		"/Users/huangshijun/project/resources/views/welcome.blade.php",
+		"/Users/huangshijun/project/resources/views/Forms/bpmaintmtg.php",
+		"/Users/huangshijun/project/resources/views/forms/bpmaintmtg.php",
+		"/Users/huangshijun/project/resources/views/layouts/app.blade.php",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/index.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/includes/header.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/includes/footer.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/package-lock.json",
+		"/Users/huangshijun/Desktop/bpmaintmtg/app.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/layout.jade",
+		"/Users/huangshijun/Desktop/example/example.html",
+		"/Users/huangshijun/Desktop/example/css/footer.css",
+		"/Users/huangshijun/cram-demo/.env",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/includes/example.html",
+		"/Users/huangshijun/Desktop/calendar/index.js",
+		"/Users/huangshijun/Desktop/calendar/index.css",
+		"/Users/huangshijun/Desktop/calendar/index.html",
+		"/Users/huangshijun/Desktop/hpye/app.js",
+		"/Users/huangshijun/Downloads/cram-demo-master/.env",
+		"/Users/huangshijun/Desktop/bpmaintmtg/schemas/SQLbpmiantmtg.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/schemas/memberSchema.js",
+		"/Users/huangshijun/Desktop/gzge/package.json",
+		"/Users/huangshijun/Desktop/gzge/index.html",
+		"/Users/huangshijun/Desktop/gzge/static-file.js",
+		"/Users/huangshijun/Desktop/gzge/rest.js",
+		"/Users/huangshijun/Desktop/gzge/contrillers.js",
+		"/Users/huangshijun/Desktop/gzge/api.js",
+		"/Users/huangshijun/Desktop/gzge/app.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/schemas/bpmaintmtg.js",
+		"/Users/huangshijun/Desktop/hpye/index.js",
+		"/Users/huangshijun/Desktop/hpye/index.ejs",
+		"/Users/huangshijun/Desktop/hpye/server.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/schemas/sqlSchema.js",
+		"/Users/huangshijun/Desktop/hpye/del.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/includes/head.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/public/js/paginator.js",
+		"/Users/huangshijun/Desktop/hpye/package-lock.json",
+		"/Users/huangshijun/Desktop/hpye/index.html",
+		"/Users/huangshijun/Desktop/hpye/de.js",
+		"/Users/huangshijun/Desktop/hpye/update.js",
+		"/Users/huangshijun/Desktop/hpye/Index.js",
+		"/Users/huangshijun/Desktop/hpye/index.jade",
+		"/Users/huangshijun/Desktop/hpye/var express = require('express');",
+		"/Users/huangshijun/project/config/app.php",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/list.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/index.js",
+		"/Users/huangshijun/Downloads/cram-demo-master/.env.example",
+		"/Users/huangshijun/project/composer.json",
+		"/Users/huangshijun/la1/.env",
+		"/Users/huangshijun/la1/config/app.php",
+		"/Users/huangshijun/project/routes/web.php",
+		"/Users/huangshijun/arduino-project/config/app.php",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/bpmaintmtglist.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/bpmaintmbrlist.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg 2/app.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/schemas/bpmaintmbr.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/bpmaintmbrdetail.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/bpmaintmbrrecord.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/bpmaintmtgdetail.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/bpmaintmtgrecord.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/models/bpmaintmbr.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/app 2.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/models/bpmaintmtg.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/public/js/admin.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/bpmaintmbrindex.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/mtgindex.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/mtglist.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/mtgdetail.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/mtgrecord.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/member.jade",
+		"/Users/huangshijun/Desktop/sql demo/index.html",
+		"/Users/huangshijun/Desktop/sql demo/users.js",
+		"/Users/huangshijun/Desktop/sql demo/User.js",
+		"/Users/huangshijun/Desktop/sql demo/app.js",
+		"/Users/huangshijun/Desktop/sql demo/package.json",
+		"/Users/huangshijun/Desktop/bpmaintmtg/public/css/footer.css",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/detail.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/schemas/movie.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/models/movie.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/includes/footers.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/includes/headers.pug",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/layouts.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/includes/heads.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/includes/headers.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/page/index.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/page/list.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/public/js/admins.js",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/page/admin.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/page/detail.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/indexs.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/admins.jade",
+		"/Users/huangshijun/Desktop/bpmaintmtg/views/pages/lists.jade",
+		"/Users/huangshijun/Desktop/i_movie-master/views/pages/admin.jade",
+		"/Users/huangshijun/Desktop/i_movie-master/schemas/movie.js",
+		"/Users/huangshijun/Desktop/i_movie-master/app.js",
+		"/Users/huangshijun/Desktop/i_movie-master/views/pages/index.jade",
+		"/Users/huangshijun/Desktop/i_movie-master/schemas/bpmaint_mtg.js",
+		"/Users/huangshijun/Desktop/i_movie-master/models/bpmaint_mtg.js",
+		"/Users/huangshijun/Desktop/i_movie-master/models/movie.js",
+		"/Users/huangshijun/Desktop/i_movie-master/views/pages/list.jade",
+		"/Users/huangshijun/.Trash/admin.js",
+		"/Users/huangshijun/Desktop/i_movie-master/models/boppmaint_metting.js",
+		"/Users/huangshijun/Desktop/i_movie-master/public/js/boppmaint_metting.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 94.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"guest",
+			"meta",
+			"id",
+			"guest",
+			"gu rest",
+			"laravel",
+			"  ",
+			"8",
+			"nav",
+			"nav itern",
+			"js",
+			"css",
+			"cs s",
+			"schema",
+			"test",
+			"bpmaintmtg",
+			"bpmaintmtg.js",
+			"schema",
+			"jade",
+			"res",
+			"re s",
+			"require",
+			"res",
+			"bpmaintmtg",
+			"schema",
+			"bpmaintmtg",
+			"i_",
+			"mtglist",
+			"/bpmaintmtgrecord/new",
+			"mtgrecord/new",
+			"/bpmaintmtgrecord/new",
+			"/mtgrecord/new",
+			"/mtgrecord/update/",
+			"/mtgrecord/bpmaintmtg/new",
+			"update",
+			"bpmaintmtg/",
+			"admin",
+			"/admin/update/",
+			"detial",
+			"list",
+			"admin",
+			"bpmaintmtg",
+			"create",
+			"update",
+			"sql",
+			"mysql",
+			"path",
+			"movie",
+			"th 删除",
+			"sql",
+			"movie",
+			"here",
+			"boot",
+			"<div id=\"footer\">\n  <div class=\"container\">\n    <p class=\"footer-block\">Place sticky footer content here.</p>\n  </div>\n</div>\n",
+			"port",
+			"div",
+			"di v",
+			"di",
+			"form-row align-items-center",
+			"form-row align-items-center\n",
+			"form-row align-items-center",
+			"cent",
+			"lissten",
+			"sql",
+			"port",
+			"doctor",
+			"id",
+			"nameSchema",
+			"name",
+			"nameSchema",
+			"name",
+			"nameSchema",
+			"name",
+			"name\t",
+			"movie",
+			"name",
+			"movie",
+			"movie\n",
+			"movie",
+			"mivie",
+			"movie",
+			"first",
+			"module",
+			"list",
+			"new",
+			"_id",
+			"_",
+			"under",
+			"unders",
+			"under",
+			"list\n",
+			"list",
+			"is",
+			"is\n",
+			"ist",
+			"L",
+			"list",
+			"exec",
+			"elec",
+			"list",
+			"topic",
+			"id",
+			"movie",
+			"list",
+			"jade",
+			"type",
+			"len",
+			"dose",
+			"LINE#",
+			"supp",
+			"circus"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bpmaintmbr",
+			"/bpmaintmtgrecord/new",
+			"/mtgrecord/new",
+			"mtgrecord",
+			"bpmaintmbr",
+			"bpmaintmtg",
+			"morningmettingSchema",
+			"morningmetting",
+			"morningmettingSchema",
+			"morningmetting",
+			"morningmettingSchema",
+			"morningMetting",
+			"name"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "textModel.class.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "demo.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 186.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

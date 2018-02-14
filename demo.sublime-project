@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/huangshijun/Desktop/bpmaintmtg/views/includes"
+		}
+	],
+	"settings":
+	{
+		"sublime-view-in-browser":
+		{
+			"basePath": "/Applications/MAMP/htdocs",
+			"baseUrl": "http://localhost:8888"
+		}
+	}
+}
